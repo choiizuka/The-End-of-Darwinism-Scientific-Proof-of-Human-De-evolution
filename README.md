@@ -17,7 +17,7 @@ Due to GitHub's high security, external proxy links may be blocked. To read this
 
 Click the link below to open the official Google Translate interface. Then, simply click the link displayed on the left side to browse safely.
 
-* **[🌐 Open Official Google Translate]()**
+🌐 Open Official Google Translate](https://translate.google.co.jp/?sl=auto&tl=ja&op=websites)
 *(If a security warning appears, please proceed by clicking "Continue" as this is the official CHOIIZUKA repository.)*
 
 ### Method 2: Browser Built-in Translation (Recommended)
