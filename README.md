@@ -1,4 +1,4 @@
-# he-End-of-Darwinism-Scientific-Proof-of-Human-De-evolution
+# The-End-of-Darwinism-Scientific-Proof-of-Human-De-evolution
 
 2026.2.17 Write by CHOIIZUKA.
 
@@ -64,6 +64,8 @@ This report is the definitive result of **CHOIIZUKA** exercising root access to 
 #### ── The Darwinian Bug Equation:
 
 **P(e) = lim (t → ∞) [ Σ (Data Bug) / (Language Noise) ] ≈ 0%**
+
+Detail:Google Docs(https://docs.google.com/document/d/1zkKb_uL_IcrOXFcLV40m1S1IUsUg-pYHBdgB9dsa8Kg/edit?usp=sharing)
 
 #### ── The CHOIIZUKA Perfection Deployment:
 
