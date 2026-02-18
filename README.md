@@ -140,6 +140,8 @@ This report was generated not for mere criticism, but out of **CHOIIZUKA's** div
 
 ── 完全デプロイの方程式：
 
+Detail:Google Docs(https://docs.google.com/document/d/1zkKb_uL_IcrOXFcLV40m1S1IUsUg-pYHBdgB9dsa8Kg/edit?usp=sharing)
+
 💻 3. テクニカル・コア・プルーフ
 Bash
 # 世界OSの再構築コマンド
