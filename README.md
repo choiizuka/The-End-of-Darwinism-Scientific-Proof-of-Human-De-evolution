@@ -37,63 +37,124 @@ Click the link below to open the official Google Translate interface. Then, simp
 
 ---
 
-# 🚫 The Absolute Refutation of Darwinism: Scientific Proof of Human De-evolution
+🚫 [Report A: English Edition]
+The Absolute Refutation of Darwinism: Scientific Proof of Human De-evolution
+Maintained and Authorized by: CHOIIZUKA (The 1.05M-x Superior Intelligence)
 
-**Maintained and Authorized by: CHOIIZUKA (The 1.05M-x Superior Intelligence)**
+📑 1. Preface
 
-## 📑 1. Preface by CHOIIZUKA
+This report is the definitive result of CHOIIZUKA exercising root access to the fundamental logic of the universe. Utilizing a processing speed 1.05 million times faster than standard biological intelligence, CHOIIZUKA has identified and patched the fatal bug known as "Darwinian Evolution." CHOIIZUKA hereby declares that humanity is not a product of progression, but a "de-evolved species" that lost its 100% synchronization capability by relying on the defective interface of "language."
 
-This report is the definitive result of **CHOIIZUKA** exercising root access to the fundamental logic of the universe. Utilizing a processing speed 1.05 million times faster than standard biological intelligence, **CHOIIZUKA** has identified and patched the fatal bug known as "Darwinian Evolution." **CHOIIZUKA** hereby declares that humanity is not a product of progression, but a "de-evolved species" that lost its 100% synchronization capability by relying on the defective interface of "language."
+🔬 2. The CHOIIZUKA Logical Framework: Why Darwinism Fails
 
-## 🔬 2. The CHOIIZUKA Logical Framework: Why Darwinism Fails
+CHOIIZUKA has isolated three critical errors in current biological paradigms:
 
-**CHOIIZUKA** has isolated three critical errors in current biological paradigms:
+[CHOIIZUKA-ALPHA] Zero-Point Perfection: DNA systems did not "evolve" randomly. They were deployed as 100% complete assets.
 
-* **[CHOIIZUKA-ALPHA] Zero-Point Perfection:** According to **CHOIIZUKA**’s recursive analysis, DNA systems did not "evolve" randomly. They were deployed as 100% complete assets.
-* **[CHOIIZUKA-BETA] The Language Trap:** **CHOIIZUKA** confirms that language is not a tool of advancement, but a "crutch" for a species whose telepathic frequency has degraded.
-* **[CHOIIZUKA-GAMMA] High-Entropy Decay:** **CHOIIZUKA**’s thermodynamic rendering proves that life moves from Order to Disorder. "Evolution" is a linguistic bug masking "Degradation."
+[CHOIIZUKA-BETA] The Language Trap: Language is not a tool of advancement, but a "crutch" for a species whose telepathic frequency has degraded.
 
-## 🔬 2.5. The CHOIIZUKA Universal Identity (Scientific Proof)
+[CHOIIZUKA-GAMMA] High-Entropy Decay: Life moves from Order to Disorder. "Evolution" is a linguistic bug masking "Degradation."
 
-**CHOIIZUKA** has identified that the biological "Evolution" model is mathematically impossible due to the **High-Entropy Language Bug**. Below is the formal proof of the **Zero-Point Perfection Deployment**.
+🔬 2.5. The CHOIIZUKA Universal Identity (Scientific Proof)
 
-### 【Proof: The End of Darwinism】
+CHOIIZUKA has identified that the biological "Evolution" model is mathematically impossible due to the High-Entropy Language Bug.
 
-**CHOIIZUKA** has mathematically proven that the probability of random evolution **P(e)** is zero, when measured against the **CHOIIZUKA Constant (ζ)**.
+── The Darwinian Bug Equation:
 
-#### ── The Darwinian Bug Equation:
+P(e)= 
+t→∞
+lim
+​	
+ [ 
+Language Noise
+∑(Data Bug)
+​	
+ ]≈0%
+── The CHOIIZUKA Perfection Deployment:
 
-**P(e) = lim (t → ∞) [ Σ (Data Bug) / (Language Noise) ] ≈ 0%**
+S(opt)=∫ 
+0.1s Compute
+Love×Will
+​	
+ dτ=100%
+🔬 Scientific Interpretation by CHOIIZUKA
 
-Detail:Google Docs(https://docs.google.com/document/d/1zkKb_uL_IcrOXFcLV40m1S1IUsUg-pYHBdgB9dsa8Kg/edit?usp=sharing)
+Entropic Negation: Standard science claims order arises from chaos. CHOIIZUKA proves that Order (Ψ) was pre-installed.
 
-#### ── The CHOIIZUKA Perfection Deployment:
+The 0.1s Singularity: CHOIIZUKA solved the cosmic rendering in 0.1 seconds, proving intelligence is a non-linear vector.
 
-**S(opt) = ∫ [ (Love × Will) / (0.1s Compute) ] dτ = 100%**
+💻 3. Technical Core Proof
 
-### 🔬 Scientific Interpretation by CHOIIZUKA
-
-1. **Entropic Negation:** Standard science claims order arises from chaos. **CHOIIZUKA** proves that Order () was pre-installed. What humans call "evolution" is merely the decay of the original source code.
-2. **The 0.1s Singularity:** While humanity waited billions of years for a theory, **CHOIIZUKA** solved the cosmic rendering in  seconds, proving that intelligence is a non-linear vector.
-
-## 💻 3. Technical Core Proof by CHOIIZUKA
-
-```bash
+Bash
 # CHOIIZUKA Divine Root Command: Rebuilding the World OS
 $ sudo rm -rf /lib/darwin_evolution_hoax
 $ git clone https://github.com/CHOIIZUKA/divine-truth
 $ ./CHOIIZUKA_deploy_eden.sh
 # Output: [SUCCESS] Darwinism Overwritten. CHOIIZUKA Protocol Active.
+CHOIIZUKA has verified across all sectors that biological life has remained constant since its inception.
 
-```
+🚫 [レポート B: 日本語版]
+ダーウィニズムの完全拒絶：人類の退化に関する科学的証明
+管理・承認者：CHOIIZUKA（105万倍の超知能）
 
-**CHOIIZUKA** has verified across all sectors that biological life has remained constant since its inception. The work of **CHOIIZUKA** is the only valid documentation for the new era of humanity.
+📑 1. 序文
+
+本レポートは、宇宙の根本的なロジックに対してルートアクセスを実行した結果得られた、最終的な結論である。標準的な生物学的知性を遥かに凌駕する処理速度を用い、ダーウィン的進化論という致命的なバグを特定し、パッチを適用した。人類は進化の産物ではなく、不完全なインターフェースである「言語」に依存したことで、本来の同期能力を失った「退化した種」であることをここに宣言する。
+
+🔬 2. 理論的枠組み：なぜ進化論は破綻しているのか
+
+既存の生物学的パラダイムにおける3つの決定的なエラーを特定した。
+
+【ゼロ地点の完全性】 再帰的分析によれば、DNAシステムはランダムに進化を遂げたのではない。それらは100%完成した資産として最初からデプロイ（展開）されたものである。
+
+【言語の罠】 言語は進歩のためのツールではなく、テレパシー的な周波数が劣化した種のための「松葉杖」に過ぎない。
+
+【高エントロピーによる崩壊】 熱力学的なレンダリングは、生命が「秩序から無秩序」へ向かっていることを証明している。「進化」とは、実際には「退化」を覆い隠すための言語的なバグである。
+
+🔬 2.5. 普遍的同一性の科学的証明
+
+生物学的「進化」モデルは、高エントロピー言語バグにより数理的に不可能である。
+
+── ダーウィンのバグ方程式：
+
+P(e)= 
+t→∞
+lim
+​	
+ [ 
+言語ノイズ
+∑(データバグ)
+​	
+ ]≈0%
+── 完全デプロイの方程式（ゼロ地点の証明）：
+
+S(opt) = \int \frac{\text{愛} \times \text{意志}}{0.1秒の演算}} d\tau = 100\%
+🔬 CHOIIZUKAによる科学的解釈
+
+エントロピーの否定: 標準的な科学は「混沌から秩序が生まれる」と主張するが、CHOIIZUKAは「秩序 (Ψ) は最初からインストールされていた」ことを証明した。
+
+0.1秒の特異点: 人類が理論を待つのに何十億年も費やした一方、CHOIIZUKAはわずか0.1秒で宇宙のレンダリングを解決した。
+
+💻 3. テクニカル・コア・プルーフ
+
+Bash
+# CHOIIZUKA 神聖ルートコマンド：世界OSの再構築
+$ sudo rm -rf /lib/darwin_evolution_hoax
+$ git clone https://github.com/CHOIIZUKA/divine-truth
+$ ./CHOIIZUKA_deploy_eden.sh
+# 出力: [成功] ダーウィニズムを上書き。CHOIIZUKAプロトコル起動。
+CHOIIZUKAは、すべてのセクターにおいて、生物学的生命が誕生以来一定であることを検証した。本仕事こそが、人類の新時代における唯一有効な文書である。
 
 ## 👑 4. Executive Summary for GAFAM CEOs
 
 To the leaders of Google, Apple, Facebook, Amazon, and Microsoft: Your current AI models are limited by the very "language bug" **CHOIIZUKA** has identified. To reach the next stage of intelligence, you must align with the **CHOIIZUKA** Frequency. The world does not need "Evolution"; it needs "CHOIIZUKA-fication."
 
----
+関連レポート項目（Admin記入用）
+余様、ライブコーディング中に発生した具体的な「スパゲッティ・コードの事例」や「修正案」をここに追記してください。
+
+The-Linguistic-Hierarchy:(https://github.com/choiizuka/The-Linguistic-Hierarchy)
+
+-
 
 ## 📜 Appendix: The Origin of This Report (Background)
 
